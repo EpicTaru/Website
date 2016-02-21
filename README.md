@@ -46,7 +46,7 @@ Your issue title should be the feature request name as well!
 * **Feature Page/Url**: should be the url/link where you feel the feature should be added. (This can be an existing page, or a new page.)
 * **Additional Information**: should be any additional information about the feature that you think will better explain it, or give better details on it.
 
-**ONLY POST 1 FEATURE REQUEST PER TICKET! DO NOT REQUEST MULTIPLE TICKETS IN THE SAME TICKET!**
+**ONLY POST 1 FEATURE REQUEST PER TICKET! DO NOT REQUEST MULTIPLE FEATURES IN THE SAME TICKET!**
 
 ## Forewarning!
 
